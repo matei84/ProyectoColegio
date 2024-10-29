@@ -18,7 +18,7 @@
         />
     </head>
 
-    <body style="background-image:url(img/colegio1.jpg); background-repeat:no-repeat" >
+    <body style="background-image:url(img/colegio1.jpg); background-size: 100%; background-repeat:no-repeat">
     
         <header>
             <!-- place navbar here -->
